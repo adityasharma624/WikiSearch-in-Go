@@ -20,8 +20,7 @@ how search actually works (I want to try this without any use of AI).
 ## Phase 1 — Simple English Wikipedia
 
 ### 2026-02-17 — Preplanning and Project Setup
-**Time spent:** ~1 hr
-
+**12:00** </br>
 I've been thinking about this for a while. Finally starting. Read the Google PageRank
 paper (The Anatomy of a Large-Scale Hypertextual Web Search Engine) — understood the
 broad strokes but lost the plot around forward vs inverted indexing. Will make more
@@ -31,5 +30,8 @@ I don't know Go. I don't know how any of this fits together yet. But that's the 
 - Download the Simple English Wikipedia dump as a manageable starting point
 - Build the full pipeline: parse → tokenize → index → search
 - Don't move to Phase 2 until Phase 1 actually works
+
+**13:34** </br>
+The first task is to learn Golang. I will use [Sriniously's Production Grade Go from Scratch](https://www.youtube.com/playlist?list=PLui3EUkuMTPhxPWqrrIvr5ckMepIbMilJ) YouTube playlist for this.
 
 *Footnote: Devlog structure and formatting assisted by AI. All content, decisions, and code are my own.*
